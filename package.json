@@ -1,0 +1,25 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "This is a Test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Moragamir/fullstack.git"
+  },
+  "author": "Amir Morag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Moragamir/fullstack/issues"
+  },
+  "homepage": "https://gitlab.com/Moragamir/fullstack#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
