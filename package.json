@@ -4,7 +4,7 @@
   "description": "This is a Test directory to learn Git and Node",
   "main": "index.html",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -18,7 +18,12 @@
     "url": "https://gitlab.com/Moragamir/fullstack/issues"
   },
   "homepage": "https://gitlab.com/Moragamir/fullstack#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "install": "^0.12.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
   "devDependencies": {
     "lite-server": "^2.4.0"
   }
