@@ -1,0 +1,30 @@
+[33mcommit 0291160676e94315ddfe6b705fab6ef4d4cb28ad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Amir Morag <moragamir@gmail.com>
+Date:   Wed Dec 19 20:21:19 2018 +0200
+
+    Assignment 1
+
+[33mcommit 1137ba5dd3a0604b6cae82becf7a1bc860578e55[m
+Author: Amir Morag <moragamir@gmail.com>
+Date:   Wed Dec 19 18:56:58 2018 +0200
+
+    Intro to bootstrap
+
+[33mcommit 7167f0148bf63d9c1b426c4b57d06a61ff5e1179[m
+Merge: a8e7937 411dcac
+Author: Amir Morag <moragamir@gmail.com>
+Date:   Wed Dec 19 18:44:26 2018 +0200
+
+    Merge branch 'master' of https://github.com/moragamir/Web
+
+[33mcommit a8e793714126f71ec4588b0fa23b890fa3847b74[m
+Author: Amir Morag <moragamir@gmail.com>
+Date:   Wed Dec 19 18:39:07 2018 +0200
+
+    intial commit
+
+[33mcommit 411dcace5f2b5f17f9780239e02dcc0902a4e2d9[m
+Author: moragamir <moragamir@gmail.com>
+Date:   Wed Dec 19 18:29:44 2018 +0200
+
+    Initial commit
